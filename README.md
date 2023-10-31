@@ -58,9 +58,9 @@ Dependencies:
 The following dependencies are required to run this project:
 
 Python (>=3.6)
-Google colab Notebook
-Pandas
-NumPy
-Matplotlib
-NLTK
-Scikit-learn
+*Google colab Notebook
+*Pandas
+*NumPy
+*Matplotlib
+*NLTK
+*Scikit-learn
