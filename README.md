@@ -3,6 +3,8 @@ AI-Powered Spam Classifier
 Project Overview:
 This project is an AI-powered spam classifier that uses the Naive Bayes algorithm to classify messages as spam or non-spam. The project is divided into four phases: Ideation, Design and Innovation, Development, and Model Training.
 
+Dataset Source:  https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 Phase 1: Ideation Phase
 Problem Statement: In this phase, we defined the problem statement, which is to develop a spam classifier.
 Design Thinking: We brainstormed and conceptualized the project, considering design and innovation strategies.
