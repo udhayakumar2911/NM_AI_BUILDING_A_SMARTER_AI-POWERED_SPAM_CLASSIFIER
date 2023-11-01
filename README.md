@@ -1,5 +1,6 @@
 # NM_AI_BUILDING_A_SMARTER_AI-POWERED_SPAM_CLASSIFIER
 AI-Powered Spam Classifier
+
 Project Overview:
 This project is an AI-powered spam classifier that uses the Naive Bayes algorithm to classify messages as spam or non-spam. The project is divided into four phases: Ideation, Design and Innovation, Development, and Model Training.
 
@@ -60,9 +61,14 @@ Dependencies:
 The following dependencies are required to run this project:
 
 Python (>=3.6)
-*Google colab Notebook
-*Pandas
-*NumPy
-*Matplotlib
-*NLTK
+
+Google colab Notebook
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+NLTK
 *Scikit-learn
